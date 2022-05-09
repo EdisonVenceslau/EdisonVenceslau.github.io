@@ -48,19 +48,12 @@
               height: 350px;
           }  
             
-            .ic{
-                float: left;
-                height: 100px;
-                border-color: black;
-                
-            }
+            
         
         #foto{
             float: left;
         }
-        div{
-            border-color: #4ecdc4;
-        }
+        
         .nome-principal{
             text-align: center;
         }
